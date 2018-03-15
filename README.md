@@ -1,2 +1,4 @@
 # Hello-World
-Just a sample public repository
+Hi World!
+
+ Thsi is the new repository and a first changes to the readme file
